@@ -16,4 +16,4 @@ Solusi kebutuhan jasa Awan
 
 #### In 2021 the Jasawan development project seeks to start by planning a one-stop, full-service solution in the dashboard
   Here we keep developing projects that are Design, build, and test like accessibility experts. These sets are designed to inspire and guide you as you envision them and build fun and inclusive experiences.
-[Csalah saru yang kami bangun created for toolchain:](https://console.ng.bluemix.net/devops/toolchains/7e57234f-a5be-45d2-beb6-f38cfd5cf3c8?env_id=ibm%3Ayp%3Aus-south)
+[This is one of the service projects we created, built for the toolchain ](https://console.ng.bluemix.net/devops/toolchains/7e57234f-a5be-45d2-beb6-f38cfd5cf3c8?env_id=ibm%3Ayp%3Aus-south)
